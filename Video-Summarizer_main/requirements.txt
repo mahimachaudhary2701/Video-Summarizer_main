@@ -1,0 +1,7 @@
+flask
+ffmpy
+opencv-python
+matplotlib
+cv2
+numpy
+matplotlib.pyplot
